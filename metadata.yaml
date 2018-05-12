@@ -1,0 +1,39 @@
+_repo: Rauta-kalloHistoriallinen-kertomus-nuorisolle_25736
+_version: 0.1.0
+alternative_title: Der Eisenkopf. Finnish
+contributor:
+  translator:
+    agent_name: Törmälä, Emanuel
+    alias: Tormala, Emanuel
+    birthdate: 1849
+    deathdate: 1900
+    gutenberg_agent_id: '33518'
+    url: http://www.gutenberg.org/2009/agents/33518
+    wikipedia: http://fi.wikipedia.org/wiki/Emanuel_T%C3%B6rm%C3%A4l%C3%A4
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, Franz
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '31340'
+    url: http://www.gutenberg.org/2009/agents/31340
+description: ''
+gutenberg_issued: '2008-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25736'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Charles XII, King of Sweden, 1682-1718 -- Juvenile fiction'
+- !lcsh 'German fiction -- Translations into Finnish'
+title: 'Rauta-kallo: Historiallinen kertomus nuorisolle'
+url: http://www.gutenberg.org/ebooks/25736
